@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-607740d2ee.ghjlc.cn/sitemap.xml
